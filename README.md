@@ -5,76 +5,72 @@
 
 ---
 
-## 📅 Exam Schedule Overview
-
-| Date | Subject | Note |
-|------|---------|------|
-| 07 Apr | CSC-103 Object Oriented Programming | Mid + Quiz |
-| 08 Apr | MA-104 Calculus-II | Mid + Quiz |
-| 09 Apr | MA-205 Applied Statistics & Probability | Mid only |
-| 13 Apr | CSC-104 Database Systems | Mid + Quiz |
-| 14 Apr | CSC-105 Digital Logic Design | Mid only |
-| 15 Apr | HU-111 Communication Skills | Mid only |
+## Background
+Before the mid-term exams began, our university conducted online classes for one week. 
+Unfortunately, no quizzes could be held during this period. As a result, all teachers 
+had to combine the quiz with the mid-term exam, which made the exams more challenging 
+and time-consuming for students.
 
 ---
 
-## 📝 Background
-Online classes were held for one week before the mid-terms.
-During this period, no quizzes could be conducted.
-As a result, teachers had to combine the quiz with the mid-term exam.
+## Paper 1 — Object Oriented Programming (CSC-103)
+The first paper was Object Oriented Programming. The paper contained three questions. 
+In Question 1, the logic that was required was out of syllabus, which caused my output 
+to be incorrect. Question 2 went smoothly and I was able to attempt it well. In Question 3, 
+the use of static method was required, but I solved it using a different approach. 
+The quiz was also included in this paper, however its question was a bit confusing 
+and I could not fully understand it.
 
 ---
 
-## 📖 Paper 1 — Object Oriented Programming (CSC-103)
-- The paper had **3 questions**
-- **Q1:** The logic required was **out of syllabus**, so the output was incorrect
-- **Q2:** Went well ✅
-- **Q3:** Required use of **static method** — I solved it differently but managed
-- The **quiz** was also included but was a bit confusing
+## Paper 2 — Calculus-II (MA-104)
+Alhamdulillah, the Calculus-II paper went very well. The mid-term portion was clear 
+and I was able to attempt all questions confidently. The quiz was also combined with 
+this mid-term and both portions went well. This was one of my best papers overall.
 
 ---
 
-## 📖 Paper 2 — Calculus-II (MA-104)
-- Alhamdulillah, the paper went **very well** 😊
-- The **quiz** was also combined with the mid — both went good ✅
+## Paper 3 — Applied Statistics and Probability (MA-205)
+The Applied Statistics and Probability mid-term also went well. The paper was 
+straightforward and I was able to attempt it comfortably without any major difficulty.
 
 ---
 
-## 📖 Paper 3 — Applied Statistics & Probability (MA-205)
-- The mid-term went **well** ✅
+## Paper 4 — Database Systems (CSC-104)
+The Database Systems paper was by far the most interesting and challenging experience 
+of my mid-terms. The syllabus covered five theory chapters, one numerical chapter, 
+and one coding chapter. However, the teacher designed the paper in such a way that 
+Question 1 alone covered all five theory chapters at once, which was quite unexpected. 
+The remaining questions were based on coding and ER diagrams. To make things more 
+difficult, both the mid-term and quiz had to be completed within 60 minutes, which 
+made time management extremely tough. It felt as if the teacher had designed the 
+paper for scientists rather than second semester students!
 
 ---
 
-## 📖 Paper 4 — Database Systems (CSC-104)
-- This was the **most interesting and challenging** paper 🤯
-- The syllabus had **5 theory chapters + 1 numerical chapter + 1 coding chapter**
-- The teacher designed Q1 in a way that it **covered all 5 theory chapters at once**
-- Remaining questions were based on **coding and ER diagrams**
-- Mid + Quiz both had to be completed in **60 minutes** — time management was tough ⏱️
+## Paper 5 — Digital Logic Design (CSC-105)
+The Digital Logic Design paper was the only exam that did not have a combined quiz. 
+Overall the paper went well and I was able to attempt most of it confidently. 
+The only mistake I made was in one question where I missed a single trick, 
+which was the Complement Apply Method. Apart from that, the paper was satisfactory.
 
 ---
 
-## 📖 Paper 5 — Digital Logic Design (CSC-105)
-- This was the **only paper without a quiz** 
-- Overall went **well** ✅
-- Only missed **one trick** — the Complement Apply Method in one question
+## Paper 6 — Communication Skills (HU-111)
+The Communication Skills paper was also a very interesting experience. The teacher 
+provided paragraphs and we were required to apply the 7 C's of Communication on them. 
+We also had to apply Coherent Devices and Unity in those paragraphs. One question 
+was about Communication Barriers, for which I wrote the answer entirely in my own 
+words and creative style. The last question required us to compose Opening and 
+Closing Messages. Overall, this paper also went well and I was satisfied with my attempt.
 
 ---
 
-## 📖 Paper 6 — Communication Skills (HU-111)
-- A very **interesting paper** 📝
-- Teacher gave paragraphs and we had to apply the **7 C's of Communication**
-- Also applied **Coherent Devices** and **Unity in Paragraphs**
-- One question on **Communication Barriers** — I wrote it in my own creative way
-- Last question required composing **Opening and Closing Messages**
-- Overall the paper went **well** ✅
-
----
-
-## 💡 Key Takeaways
-- Time management is crucial — especially when Mid + Quiz are combined
-- Always cover the full syllabus, including edge topics
-- Stay calm under pressure 💪
+## Key Takeaways
+Throughout these mid-term exams, I learned that time management is extremely important, 
+especially when the quiz and mid-term are combined. It is also essential to prepare 
+the complete syllabus including all edge topics. Most importantly, staying calm and 
+focused under pressure makes a huge difference in exam performance.
 
 ---
 *Written by: Muhammad Talha | UET Faisalabad | Spring 2026*
